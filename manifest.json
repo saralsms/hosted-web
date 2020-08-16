@@ -1,0 +1,28 @@
+{
+  "name": "SaralSMS",
+  "short_name": "SaralSMS",
+  "description": "Trusted and Reliable Bulk SMS Service Provider in Nepal.",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FF3D16",
+  "lang": "en-US",
+  "orientation": "portrait-primary",
+  "scope": "./",
+  "start_url": "./",
+  "categories": [
+    "communication",
+    "social"
+  ],
+  "icons": [
+    {
+      "src": "/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
